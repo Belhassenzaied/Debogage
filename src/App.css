@@ -1,0 +1,12 @@
+.centerCard{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 115px;
+  width: 75%;
+}
+
+.centerBlock{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
